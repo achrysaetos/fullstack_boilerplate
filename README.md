@@ -2,7 +2,7 @@
 
 A fully functional boilerplate for any fullstack web app, built with Node, React, MongoDB, ChakraUI, and GraphQL.
 
-Authentication has already been handled for you, so you can jump straight to the dashboard and start building!
+Authentication has already been handled for you, so you can jump straight to the dashboard and start building (don't forget to add your config file with the `URI` and `SECRET_KEY`)!
 
 However, you still need to personalize the backend graphql models (`backend/models/`), the backend graphql resolvers and typeDefs (`backend/graphql/`), and the frontend graphql queries (`frontend/src/graphql/`) -- these should be your main first steps.
 
