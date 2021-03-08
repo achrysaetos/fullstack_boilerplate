@@ -13,8 +13,3 @@ However, you still need to personalize the backend graphql models (`backend/mode
 
 **frontend/** -- set up the client interface and connect to your backend, handle verification of users and create pages and their components, and write queries/mutations, helper functions, and styles for the parts of your app
 
-
-## To Do
-
-Update routing and styling\
-Add user account and settings functionality
