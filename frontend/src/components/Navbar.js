@@ -23,7 +23,7 @@ export default function MenuBar() {
     <Flex as="nav" align="center" justify="space-between" wrap="wrap" w="100%" py={6} pl={6} mb={3}>
       <Flex align="center">
         <Heading size="lg" color="teal.500" as={Link} to="/" _hover={{ color: "teal.500" }}>
-          CardPaladin
+          ACHRYSAETOS
         </Heading>
       </Flex>
 
@@ -54,7 +54,7 @@ export default function MenuBar() {
     <Flex as="nav" align="center" justify="space-between" wrap="wrap" w="100%" py={6} px={6} mb={3}>
       <Flex align="center">
         <Heading size="lg" color="teal.500" as={Link} to="/" _hover={{ color: "teal.500" }}>
-          CardPaladin
+          ACHRYSAETOS
         </Heading>
       </Flex>
 

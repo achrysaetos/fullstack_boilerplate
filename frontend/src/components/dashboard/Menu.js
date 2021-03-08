@@ -9,32 +9,32 @@ export default function Menu() {
       <Accordion defaultIndex={[0]} w="100%" allowToggle>
         <AccordionItem>
           <AccordionButton _focus="outline: 0">
-            <Box flex="1" textAlign="left" fontWeight="bold"> Dashboard </Box>
+            <Box flex="1" textAlign="left" fontWeight="bold"> SECTION I </Box>
             <AccordionIcon />
           </AccordionButton>
-          <AccordionPanel pb={4} ml={2}> Home </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Overview </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Add a Card </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL I </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL II </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL III </AccordionPanel>
         </AccordionItem>
 
         <AccordionItem>
           <AccordionButton _focus="outline: 0">
-            <Box flex="1" textAlign="left" fontWeight="bold"> Account </Box>
+            <Box flex="1" textAlign="left" fontWeight="bold"> SECTION II </Box>
             <AccordionIcon />
           </AccordionButton>
-          <AccordionPanel pb={4} ml={2}> My Profile </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Progress Report </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Latest Activity </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL I </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL II </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL III </AccordionPanel>
         </AccordionItem>
 
         <AccordionItem>
           <AccordionButton _focus="outline: 0">
-            <Box flex="1" textAlign="left" fontWeight="bold"> Settings </Box>
+            <Box flex="1" textAlign="left" fontWeight="bold"> SECTION III </Box>
             <AccordionIcon />
           </AccordionButton>
-          <AccordionPanel pb={4} ml={2}> Settings </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Notifications </AccordionPanel>
-          <AccordionPanel pb={4} ml={2}> Support </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL I </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL II </AccordionPanel>
+          <AccordionPanel pb={4} ml={2}> PANEL III </AccordionPanel>
         </AccordionItem>
       </Accordion>
     </Flex>

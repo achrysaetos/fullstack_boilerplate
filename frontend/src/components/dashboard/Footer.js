@@ -6,7 +6,7 @@ export default function Footer() {
   return(
     <Flex as="nav" align="center" justify="space-between" wrap="wrap" w="100%" py={6} pl={6} mb={3}>
       <Flex align="center">
-        <Text> Copyright © 2021 CardPaladin. All rights reserved. </Text>
+        <Text> Copyright © 2021 ACHRYSAETOS. All rights reserved. </Text>
       </Flex>
 
       <Flex align="center">
